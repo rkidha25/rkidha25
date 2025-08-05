@@ -8,7 +8,6 @@ I'm a Btech CSE 3rd year student, passionate about Artificial Intelligence, Mach
 - 👯 I’m looking to collaborate on AI/ML projects, model building, data preprocessing, and learning-based research implementations.
 - 🤔 I’m looking for help with Python development, AI/ML concepts, and collaborating on beginner to intermediate-level projects.
 - 💬 Ask me about:
-- 
 • Python programming and problem-solving  
 • Writing clean, efficient, and modular code  
 • Fundamentals of AI/ML and how to get started  
