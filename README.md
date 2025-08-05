@@ -1,4 +1,4 @@
-## Hi there 👋,IDHA VASHISTH here.
+## Hi👋,IDHA VASHISTH here.
 I'm a Btech CSE 3rd year student, passionate about Artificial Intelligence, Machine Learning, Full Stack Web Development. I enjoy working on real-world problems using data, algorithms, and Python. From building simple machine learning models to experimenting with deep learning, I love the process of solving real-world problems through data. I've experience in technologies like SQL, Java, DSA, DAA, C, C++, CSS, Algorithms.
 
 
